@@ -1,0 +1,113 @@
+{
+  "normalization": "uppercase; collapse whitespace; retain punctuation",
+  "results": [
+    {
+      "photo": "pilot1",
+      "variant": "original",
+      "text": "TAOusuitl",
+      "detections": 1,
+      "mean_confidence": 0.0013460507114465797,
+      "ground_truth": "PAUL G. ALLEN CENTER\nfor Computer Science & Engineering",
+      "reference_length": 55,
+      "edits": 50,
+      "cer": 0.9090909090909091,
+      "character_accuracy": 0.09090909090909094
+    },
+    {
+      "photo": "pilot1",
+      "variant": "baseline",
+      "text": "",
+      "detections": 0,
+      "mean_confidence": null,
+      "ground_truth": "PAUL G. ALLEN CENTER\nfor Computer Science & Engineering",
+      "reference_length": 55,
+      "edits": 55,
+      "cer": 1.0,
+      "character_accuracy": 0.0
+    },
+    {
+      "photo": "pilot1",
+      "variant": "edge_100000",
+      "text": "",
+      "detections": 0,
+      "mean_confidence": null,
+      "ground_truth": "PAUL G. ALLEN CENTER\nfor Computer Science & Engineering",
+      "reference_length": 55,
+      "edits": 55,
+      "cer": 1.0,
+      "character_accuracy": 0.0
+    },
+    {
+      "photo": "pilot2",
+      "variant": "original",
+      "text": "",
+      "detections": 0,
+      "mean_confidence": null,
+      "ground_truth": null,
+      "reference_length": null,
+      "edits": null,
+      "cer": null,
+      "character_accuracy": null
+    },
+    {
+      "photo": "pilot2",
+      "variant": "baseline",
+      "text": "",
+      "detections": 0,
+      "mean_confidence": null,
+      "ground_truth": null,
+      "reference_length": null,
+      "edits": null,
+      "cer": null,
+      "character_accuracy": null
+    },
+    {
+      "photo": "pilot2",
+      "variant": "edge_100000",
+      "text": "",
+      "detections": 0,
+      "mean_confidence": null,
+      "ground_truth": null,
+      "reference_length": null,
+      "edits": null,
+      "cer": null,
+      "character_accuracy": null
+    },
+    {
+      "photo": "pilot3",
+      "variant": "original",
+      "text": "",
+      "detections": 0,
+      "mean_confidence": null,
+      "ground_truth": null,
+      "reference_length": null,
+      "edits": null,
+      "cer": null,
+      "character_accuracy": null
+    },
+    {
+      "photo": "pilot3",
+      "variant": "baseline",
+      "text": "",
+      "detections": 0,
+      "mean_confidence": null,
+      "ground_truth": null,
+      "reference_length": null,
+      "edits": null,
+      "cer": null,
+      "character_accuracy": null
+    },
+    {
+      "photo": "pilot3",
+      "variant": "edge_100000",
+      "text": "",
+      "detections": 0,
+      "mean_confidence": null,
+      "ground_truth": null,
+      "reference_length": null,
+      "edits": null,
+      "cer": null,
+      "character_accuracy": null
+    }
+  ]
+}

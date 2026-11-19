@@ -1,0 +1,21 @@
+{
+  "content": "D:\\UIUC\\\u78141\\26Fall\\CS543\\style-transfer\\imgs\\pilot3.jpg",
+  "style": "D:\\UIUC\\\u78141\\26Fall\\CS543\\style-transfer\\style.jpg",
+  "output_dir": "pilot_output\\new_photos",
+  "edge_weights": [
+    0.0,
+    1000.0,
+    10000.0,
+    100000.0
+  ],
+  "image_size": 256,
+  "steps": 100,
+  "style_weight": 1000000.0,
+  "content_weight": 1,
+  "device": "cpu",
+  "threads": 4,
+  "size": [
+    192,
+    256
+  ]
+}

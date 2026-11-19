@@ -1,0 +1,8 @@
+{
+  "languages": [
+    "en"
+  ],
+  "decoder": "greedy",
+  "easyocr_version": "1.7.2",
+  "gpu": false
+}

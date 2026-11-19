@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.torch_cache/
+.pip_cache/
+.easyocr_models/

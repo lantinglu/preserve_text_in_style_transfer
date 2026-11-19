@@ -1,0 +1,13 @@
+﻿photo,variant,text,detections,mean_confidence,ground_truth,reference_length,edits,cer,character_accuracy
+pilot1,original,TAOusuitl,1,0.0013460507114465797,"PAUL G. ALLEN CENTER
+for Computer Science & Engineering",55,50,0.9090909090909091,0.09090909090909094
+pilot1,baseline,,0,,"PAUL G. ALLEN CENTER
+for Computer Science & Engineering",55,55,1.0,0.0
+pilot1,edge_100000,,0,,"PAUL G. ALLEN CENTER
+for Computer Science & Engineering",55,55,1.0,0.0
+pilot2,original,,0,,,,,,
+pilot2,baseline,,0,,,,,,
+pilot2,edge_100000,,0,,,,,,
+pilot3,original,,0,,,,,,
+pilot3,baseline,,0,,,,,,
+pilot3,edge_100000,,0,,,,,,
