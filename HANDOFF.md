@@ -26,6 +26,11 @@ Introduction、Abstract、Conclusion 等共同部分需要合并团队最终结�
 - Ziyang Li：照片采集、角点标注、透视矫正、四条 pipeline 与完整测试集运行。
 - Zijian Zhong：OCR、人工转录、CER 与拍摄角度影响分析。
 
+### Ziyang Li：首个透视矫正样例（2026-11-20）
+- 已加入 [rectification/library_demo](rectification/library_demo/README.md)：真实招牌照片、四角标注、可复用 OpenCV 矫正代码、Notebook、前后对照图和几何验证记录。
+- 当前选取 Library 招牌照片中四角完整可见的上方 University of Illinois 面板；目标宽高比为估计值。
+- 完整照片集、P1–P4 流程和正式 OCR/CER 评价仍待后续整合。
+
 ## 运行脚本
 在本文件夹打开终端：
 

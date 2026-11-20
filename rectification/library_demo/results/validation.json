@@ -1,0 +1,55 @@
+{
+  "max_corner_reprojection_error_px": 2.8421709430404007e-13,
+  "max_grid_roundtrip_error_px": 9.32833647136442e-13,
+  "valid_source_coverage_fraction": 1.0,
+  "output_size_wh": [
+    2400,
+    292
+  ],
+  "checks_passed": true,
+  "scope": "Geometry only; physical aspect ratio and OCR improvement are not established.",
+  "source_sha256": "f58102efc9ac0dd1bf9f13f7bff31dab0efd0d262c288b190d7b601b4c4d8d86",
+  "opencv_version": "5.0.0",
+  "homography_source_to_rectified": [
+    [
+      0.6939390757632395,
+      0.059693683936622575,
+      -576.2231310402191
+    ],
+    [
+      0.023047156682553235,
+      0.6912332268019339,
+      -1288.0480598330357
+    ],
+    [
+      5.804824850387993e-06,
+      4.237263503204378e-05,
+      1.0
+    ]
+  ],
+  "homography_rectified_to_source": [
+    [
+      1.441251221493839,
+      -0.16253887731802646,
+      621.1244058877966
+    ],
+    [
+      -0.058986541681360735,
+      1.347474161995651,
+      1701.6220702967757
+    ],
+    [
+      -5.866795703712751e-06,
+      -5.615252116714091e-05,
+      0.9242922706663641
+    ]
+  ],
+  "source_crop_box_xyxy": [
+    532,
+    1614,
+    4610,
+    2406
+  ],
+  "interpolation": "OpenCV INTER_LINEAR",
+  "photometric_processing": "none"
+}

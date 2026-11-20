@@ -1,0 +1,43 @@
+{
+  "sign_id": "uiuc_library_upper_panel",
+  "photo_id": "library_view01",
+  "angle_label": "oblique_unmeasured",
+  "image": "source.jpg",
+  "source_sha256": "f58102efc9ac0dd1bf9f13f7bff31dab0efd0d262c288b190d7b601b4c4d8d86",
+  "oriented_image_size_wh": [
+    5712,
+    4284
+  ],
+  "coordinate_system": "EXIF-oriented original RGB image; x from left, y from top; zero-based pixel coordinates",
+  "corners_tl_tr_br_bl": [
+    [
+      672,
+      1841
+    ],
+    [
+      4481,
+      1714
+    ],
+    [
+      4510,
+      2184
+    ],
+    [
+      632,
+      2306
+    ]
+  ],
+  "annotation_method": "Manual visual annotation of the four blue-panel corners at original-image resolution",
+  "target_size_wh": [
+    2400,
+    292
+  ],
+  "target_aspect_ratio_basis": "Approximation from mean opposite image-edge lengths; physical sign dimensions have not been measured. Freeze a shared target size for future photographs of this sign.",
+  "selected_plane": "Upper blue University of Illinois panel; all four corners visible",
+  "selection_reason": "Lower Library panel bottom boundary lies outside the photograph, so its four physical corners cannot be annotated.",
+  "measured_view_angle_degrees": null,
+  "visible_text_for_review": "University of Illinois",
+  "logo_inclusion_for_ocr": "To be agreed with OCR owner; visible orange I logo is retained in image.",
+  "use": "First rectification pilot; not a completed formal four-pipeline test",
+  "source_origin": "Team Group Chat photo: Weixin Image_2026-11-20_114543_066.jpg"
+}
