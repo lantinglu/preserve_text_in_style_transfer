@@ -1,0 +1,3 @@
+variant,path,order,reference,prediction,edits,cer
+original,rectification\library_demo\results\rectified.png,EasyOCR,University of Illinois,1 41 University Illinois of,11,0.5
+original,rectification\library_demo\results\rectified.png,left-to-right,University of Illinois,1 41 University of Illinois,5,0.22727272727272727
